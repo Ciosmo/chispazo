@@ -123,17 +123,4 @@ footer{
     flex-direction: column;
 
 }
-.footer{
-    display: flex;
-    flex-wrap: wrap;
-   
-}
-
-.footer a{
-    color:rgb(139,69,19) ;
-    text-decoration: none;
-}
-.footer li{
-    display: inline-block;
-}
 
