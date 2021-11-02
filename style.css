@@ -118,22 +118,11 @@ main{
     z-index: -100;
     opacity: 0.2;
 }
-footer{
-    display: flex;
-    flex-direction: column;
+.fortest{
+    
+    
 
 }
-.footer{
-    display: flex;
-    flex-wrap: wrap;
-   
+.image-test{
+    
 }
-
-.footer a{
-    color:rgb(139,69,19) ;
-    text-decoration: none;
-}
-.footer li{
-    display: inline-block;
-}
-
